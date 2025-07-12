@@ -1,0 +1,9 @@
+[INFO] System booted successfully
+[ERROR] Disk space low on /dev/sda1
+[WARNING] CPU temperature high (85°C)
+[INFO] User 'admin' logged in
+[ERROR] Failed to connect to database
+[INFO] Backup completed successfully
+[WARNING] Network latency detected
+[ERROR] Service 'httpd' crashed
+[INFO] System shutdown initiated

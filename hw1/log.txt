@@ -1,0 +1,4 @@
+[Sun Mar 23 17:14:37 2025] Directory "testDir" created successfully.
+[Sun Mar 23 17:15:03 2025] File "example.txt" created successfully.
+[Sun Mar 23 17:15:51 2025] Content appended to file "example.txt".
+[Sun Mar 23 17:16:34 2025] Content appended to file "example.txt".

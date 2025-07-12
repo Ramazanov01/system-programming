@@ -1,0 +1,271 @@
+Fri Jun 27 00:04:02 2025 - [START] Server started.
+Fri Jun 27 00:26:03 2025 - [LOGIN] user 'Mert' connected
+Fri Jun 27 00:26:38 2025 - [ROOM] user 'Mert' joined room 'room1'
+Fri Jun 27 00:26:51 2025 - [SHUTDOWN] SIGINT received. Disconnecting all clients.
+Fri Jun 27 00:27:05 2025 - [START] Server started.
+Fri Jun 27 00:27:13 2025 - [LOGIN] user 'User1' connected
+Fri Jun 27 00:27:23 2025 - [ROOM] user 'User1' joined room 'room1'
+Fri Jun 27 00:27:32 2025 - [ROOM] user 'User1' left room 'room1'
+Fri Jun 27 00:27:32 2025 - [ROOM] user 'User1' joined room 'room2'
+Fri Jun 27 00:27:50 2025 - [ROOM] user 'User1' left room 'room2'
+Fri Jun 27 00:28:34 2025 - [LOGIN] user 'User2' connected
+Fri Jun 27 00:56:34 2025 - [ROOM] user 'User1' joined room 'room1'
+Fri Jun 27 00:56:46 2025 - [ROOM] user 'User2' joined room 'room1'
+Fri Jun 27 00:57:01 2025 - [BROADCAST] User1: hello everybody
+Fri Jun 27 01:24:45 2025 - [DISCONNECT] User2 disconnected.
+Fri Jun 27 01:24:45 2025 - [DISCONNECT] User2 disconnected.
+Fri Jun 27 01:24:45 2025 - [DISCONNECT] User1 disconnected.
+Fri Jun 27 01:24:45 2025 - [DISCONNECT] User1 disconnected.
+Fri Jun 27 11:18:09 2025 - [START] Server started.
+Fri Jun 27 11:18:55 2025 - [LOGIN] user 'User1' connected
+Fri Jun 27 11:19:12 2025 - [LOGIN] user 'User2' connected
+Fri Jun 27 11:19:33 2025 - [ROOM] user 'User1' joined room 'room1'
+Fri Jun 27 11:19:57 2025 - [ROOM] user 'User2' joined room 'room1'
+Fri Jun 27 11:22:12 2025 - [WHISPER] User2 -> User1: hello
+Fri Jun 27 11:34:26 2025 - [FILE-PROCESS] Starting upload of 'test1.txt' from User2 to User1
+Fri Jun 27 11:34:28 2025 - [FILE] 'test1.txt' from User2 to User1 uploaded successfully as 'received_20250627_113426_test1.txt'.
+Fri Jun 27 11:49:46 2025 - [DISCONNECT] User2 disconnected.
+Fri Jun 27 11:49:46 2025 - [DISCONNECT] User2 disconnected.
+Fri Jun 27 11:49:54 2025 - [LOGIN] user 'Tester' connected
+Fri Jun 27 11:50:13 2025 - [LOGIN] user 'user1' connected
+Fri Jun 27 11:50:13 2025 - [LOGIN] user 'user2' connected
+Fri Jun 27 11:50:13 2025 - [LOGIN] user 'user3' connected
+Fri Jun 27 11:50:13 2025 - [LOGIN] user 'user4' connected
+Fri Jun 27 11:50:13 2025 - [LOGIN] user 'user6' connected
+Fri Jun 27 11:50:13 2025 - [LOGIN] user 'user5' connected
+Fri Jun 27 11:50:13 2025 - [LOGIN] user 'user7' connected
+Fri Jun 27 11:50:13 2025 - [LOGIN] user 'user8' connected
+Fri Jun 27 11:50:13 2025 - [LOGIN] user 'user9' connected
+Fri Jun 27 11:50:13 2025 - [LOGIN] user 'user10' connected
+Fri Jun 27 11:50:14 2025 - [FILE-PROCESS] Starting upload of 'test1.txt' from user1 to Tester
+Fri Jun 27 11:50:14 2025 - [FILE-PROCESS] Starting upload of 'test3.txt' from user3 to Tester
+Fri Jun 27 11:50:14 2025 - [FILE-PROCESS] Starting upload of 'test4.txt' from user4 to Tester
+Fri Jun 27 11:50:14 2025 - [FILE-PROCESS] Starting upload of 'test2.txt' from user2 to Tester
+Fri Jun 27 11:50:14 2025 - [FILE-PROCESS] Starting upload of 'test5.txt' from user5 to Tester
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user2 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user2 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user3 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user3 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user5 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user5 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user9 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user9 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user1 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user1 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user7 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user7 disconnected.
+Fri Jun 27 11:50:16 2025 - [FILE] 'test1.txt' from user1 to Tester uploaded successfully as 'received_20250627_115014_test1.txt'.
+Fri Jun 27 11:50:16 2025 - [FILE-PROCESS] Starting upload of 'test9.txt' from user9 to Tester
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user6 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user6 disconnected.
+Fri Jun 27 11:50:16 2025 - [FILE] 'test2.txt' from user2 to Tester uploaded successfully as 'received_20250627_115014_test2.txt'.
+Fri Jun 27 11:50:16 2025 - [FILE-PROCESS] Starting upload of 'test6.txt' from user6 to Tester
+Fri Jun 27 11:50:16 2025 - [FILE] 'test5.txt' from user5 to Tester uploaded successfully as 'received_20250627_115014_test5.txt'.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user10 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user10 disconnected.
+Fri Jun 27 11:50:16 2025 - [FILE] 'test3.txt' from user3 to Tester uploaded successfully as 'received_20250627_115014_test3.txt'.
+Fri Jun 27 11:50:16 2025 - [FILE-PROCESS] Starting upload of 'test10.txt' from user10 to Tester
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user8 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user8 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user4 disconnected.
+Fri Jun 27 11:50:16 2025 - [DISCONNECT] user4 disconnected.
+Fri Jun 27 11:50:16 2025 - [FILE-PROCESS] Starting upload of 'test8.txt' from user8 to Tester
+Fri Jun 27 11:50:16 2025 - [FILE] 'test4.txt' from user4 to Tester uploaded successfully as 'received_20250627_115014_test4.txt'.
+Fri Jun 27 11:50:16 2025 - [FILE-PROCESS] Starting upload of 'test7.txt' from user7 to Tester
+Fri Jun 27 11:50:18 2025 - [FILE] 'test9.txt' from user9 to Tester uploaded successfully as 'received_20250627_115016_test9.txt'.
+Fri Jun 27 11:50:18 2025 - [FILE] 'test6.txt' from user6 to Tester uploaded successfully as 'received_20250627_115016_test6.txt'.
+Fri Jun 27 11:50:18 2025 - [FILE] 'test10.txt' from user10 to Tester uploaded successfully as 'received_20250627_115016_test10.txt'.
+Fri Jun 27 11:50:18 2025 - [FILE] 'test8.txt' from user8 to Tester uploaded successfully as 'received_20250627_115016_test8.txt'.
+Fri Jun 27 11:50:18 2025 - [FILE] 'test7.txt' from user7 to Tester uploaded successfully as 'received_20250627_115016_test7.txt'.
+Fri Jun 27 12:44:11 2025 - [SHUTDOWN] SIGINT received. Disconnecting all clients.
+Fri Jun 27 12:46:05 2025 - [START] Server started.
+Fri Jun 27 12:47:20 2025 - [SHUTDOWN] SIGINT received. Disconnecting all clients.
+Fri Jun 27 12:47:25 2025 - [START] Server started.
+Fri Jun 27 12:47:31 2025 - [LOGIN] user 'User1' connected
+Fri Jun 27 12:47:31 2025 - [DISCONNECT] User1 disconnected.
+Fri Jun 27 12:47:31 2025 - [DISCONNECT] User1 disconnected.
+Fri Jun 27 12:47:31 2025 - [LOGIN] user 'User2' connected
+Fri Jun 27 12:47:31 2025 - [DISCONNECT] User2 disconnected.
+Fri Jun 27 12:47:31 2025 - [DISCONNECT] User2 disconnected.
+Fri Jun 27 12:47:31 2025 - [LOGIN] user 'User3' connected
+Fri Jun 27 12:47:31 2025 - [DISCONNECT] User3 disconnected.
+Fri Jun 27 12:47:31 2025 - [DISCONNECT] User3 disconnected.
+Fri Jun 27 12:47:31 2025 - [LOGIN] user 'User4' connected
+Fri Jun 27 12:47:31 2025 - [DISCONNECT] User4 disconnected.
+Fri Jun 27 12:47:31 2025 - [DISCONNECT] User4 disconnected.
+Fri Jun 27 12:47:32 2025 - [LOGIN] user 'User5' connected
+Fri Jun 27 12:47:32 2025 - [DISCONNECT] User5 disconnected.
+Fri Jun 27 12:47:32 2025 - [DISCONNECT] User5 disconnected.
+Fri Jun 27 12:47:32 2025 - [LOGIN] user 'User6' connected
+Fri Jun 27 12:47:32 2025 - [DISCONNECT] User6 disconnected.
+Fri Jun 27 12:47:32 2025 - [DISCONNECT] User6 disconnected.
+Fri Jun 27 12:47:32 2025 - [LOGIN] user 'User7' connected
+Fri Jun 27 12:47:32 2025 - [DISCONNECT] User7 disconnected.
+Fri Jun 27 12:47:32 2025 - [DISCONNECT] User7 disconnected.
+Fri Jun 27 12:47:32 2025 - [LOGIN] user 'User8' connected
+Fri Jun 27 12:47:32 2025 - [DISCONNECT] User8 disconnected.
+Fri Jun 27 12:47:32 2025 - [DISCONNECT] User8 disconnected.
+Fri Jun 27 12:47:32 2025 - [LOGIN] user 'User9' connected
+Fri Jun 27 12:47:32 2025 - [DISCONNECT] User9 disconnected.
+Fri Jun 27 12:47:32 2025 - [DISCONNECT] User9 disconnected.
+Fri Jun 27 12:47:33 2025 - [LOGIN] user 'User10' connected
+Fri Jun 27 12:47:33 2025 - [DISCONNECT] User10 disconnected.
+Fri Jun 27 12:47:33 2025 - [DISCONNECT] User10 disconnected.
+Fri Jun 27 12:47:33 2025 - [LOGIN] user 'User11' connected
+Fri Jun 27 12:47:33 2025 - [DISCONNECT] User11 disconnected.
+Fri Jun 27 12:47:33 2025 - [DISCONNECT] User11 disconnected.
+Fri Jun 27 12:47:33 2025 - [LOGIN] user 'User12' connected
+Fri Jun 27 12:47:33 2025 - [DISCONNECT] User12 disconnected.
+Fri Jun 27 12:47:33 2025 - [DISCONNECT] User12 disconnected.
+Fri Jun 27 12:47:33 2025 - [LOGIN] user 'User13' connected
+Fri Jun 27 12:47:33 2025 - [DISCONNECT] User13 disconnected.
+Fri Jun 27 12:47:33 2025 - [DISCONNECT] User13 disconnected.
+Fri Jun 27 12:47:33 2025 - [LOGIN] user 'User14' connected
+Fri Jun 27 12:47:33 2025 - [DISCONNECT] User14 disconnected.
+Fri Jun 27 12:47:33 2025 - [DISCONNECT] User14 disconnected.
+Fri Jun 27 12:47:34 2025 - [LOGIN] user 'User15' connected
+Fri Jun 27 12:47:34 2025 - [DISCONNECT] User15 disconnected.
+Fri Jun 27 12:47:34 2025 - [DISCONNECT] User15 disconnected.
+Fri Jun 27 12:51:06 2025 - [SHUTDOWN] SIGINT received. Disconnecting all clients.
+Fri Jun 27 12:51:08 2025 - [START] Server started.
+Fri Jun 27 12:51:15 2025 - [LOGIN] user 'User1' connected
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User1 disconnected.
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User1 disconnected.
+Fri Jun 27 12:51:15 2025 - [LOGIN] user 'User2' connected
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User2 disconnected.
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User2 disconnected.
+Fri Jun 27 12:51:15 2025 - [LOGIN] user 'User3' connected
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User3 disconnected.
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User3 disconnected.
+Fri Jun 27 12:51:15 2025 - [LOGIN] user 'User4' connected
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User4 disconnected.
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User4 disconnected.
+Fri Jun 27 12:51:15 2025 - [LOGIN] user 'User5' connected
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User5 disconnected.
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User5 disconnected.
+Fri Jun 27 12:51:15 2025 - [LOGIN] user 'User6' connected
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User6 disconnected.
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User6 disconnected.
+Fri Jun 27 12:51:15 2025 - [LOGIN] user 'User7' connected
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User7 disconnected.
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User7 disconnected.
+Fri Jun 27 12:51:15 2025 - [LOGIN] user 'User8' connected
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User8 disconnected.
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User8 disconnected.
+Fri Jun 27 12:51:15 2025 - [LOGIN] user 'User9' connected
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User9 disconnected.
+Fri Jun 27 12:51:15 2025 - [DISCONNECT] User9 disconnected.
+Fri Jun 27 12:51:16 2025 - [LOGIN] user 'User10' connected
+Fri Jun 27 12:51:16 2025 - [DISCONNECT] User10 disconnected.
+Fri Jun 27 12:51:16 2025 - [DISCONNECT] User10 disconnected.
+Fri Jun 27 12:51:16 2025 - [LOGIN] user 'User11' connected
+Fri Jun 27 12:51:16 2025 - [DISCONNECT] User11 disconnected.
+Fri Jun 27 12:51:16 2025 - [DISCONNECT] User11 disconnected.
+Fri Jun 27 12:51:16 2025 - [LOGIN] user 'User12' connected
+Fri Jun 27 12:51:16 2025 - [DISCONNECT] User12 disconnected.
+Fri Jun 27 12:51:16 2025 - [DISCONNECT] User12 disconnected.
+Fri Jun 27 12:51:16 2025 - [LOGIN] user 'User13' connected
+Fri Jun 27 12:51:16 2025 - [DISCONNECT] User13 disconnected.
+Fri Jun 27 12:51:16 2025 - [DISCONNECT] User13 disconnected.
+Fri Jun 27 12:51:16 2025 - [LOGIN] user 'User14' connected
+Fri Jun 27 12:51:16 2025 - [DISCONNECT] User14 disconnected.
+Fri Jun 27 12:51:16 2025 - [DISCONNECT] User14 disconnected.
+Fri Jun 27 12:51:16 2025 - [LOGIN] user 'User15' connected
+Fri Jun 27 12:51:16 2025 - [DISCONNECT] User15 disconnected.
+Fri Jun 27 12:51:16 2025 - [DISCONNECT] User15 disconnected.
+Fri Jun 27 13:01:02 2025 - [SHUTDOWN] SIGINT received. Disconnecting all clients.
+Fri Jun 27 13:01:11 2025 - [START] Server started.
+Fri Jun 27 13:01:19 2025 - [START] Server started.
+Fri Jun 27 13:01:21 2025 - [LOGIN] user 'user1' connected
+Fri Jun 27 13:01:21 2025 - [LOGIN] user 'user2' connected
+Fri Jun 27 13:01:21 2025 - [LOGIN] user 'user3' connected
+Fri Jun 27 13:01:21 2025 - [LOGIN] user 'user4' connected
+Fri Jun 27 13:01:21 2025 - [LOGIN] user 'user5' connected
+Fri Jun 27 13:01:21 2025 - [LOGIN] user 'user6' connected
+Fri Jun 27 13:01:21 2025 - [LOGIN] user 'user7' connected
+Fri Jun 27 13:01:21 2025 - [LOGIN] user 'user8' connected
+Fri Jun 27 13:01:21 2025 - [LOGIN] user 'user9' connected
+Fri Jun 27 13:01:22 2025 - [LOGIN] user 'user10' connected
+Fri Jun 27 13:01:22 2025 - [LOGIN] user 'user11' connected
+Fri Jun 27 13:01:22 2025 - [LOGIN] user 'user12' connected
+Fri Jun 27 13:01:22 2025 - [LOGIN] user 'user13' connected
+Fri Jun 27 13:01:22 2025 - [LOGIN] user 'user14' connected
+Fri Jun 27 13:01:22 2025 - [LOGIN] user 'user15' connected
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user1 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user1 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user2 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user2 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user3 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user3 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user4 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user4 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user5 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user5 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user6 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user6 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user7 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user7 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user8 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user8 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user9 disconnected.
+Fri Jun 27 13:01:31 2025 - [DISCONNECT] user9 disconnected.
+Fri Jun 27 13:01:32 2025 - [DISCONNECT] user10 disconnected.
+Fri Jun 27 13:01:32 2025 - [DISCONNECT] user10 disconnected.
+Fri Jun 27 13:01:32 2025 - [DISCONNECT] user11 disconnected.
+Fri Jun 27 13:01:32 2025 - [DISCONNECT] user11 disconnected.
+Fri Jun 27 13:01:32 2025 - [DISCONNECT] user12 disconnected.
+Fri Jun 27 13:01:32 2025 - [DISCONNECT] user12 disconnected.
+Fri Jun 27 13:01:32 2025 - [DISCONNECT] user13 disconnected.
+Fri Jun 27 13:01:32 2025 - [DISCONNECT] user13 disconnected.
+Fri Jun 27 13:01:32 2025 - [DISCONNECT] user14 disconnected.
+Fri Jun 27 13:01:32 2025 - [DISCONNECT] user14 disconnected.
+Fri Jun 27 13:01:32 2025 - [DISCONNECT] user15 disconnected.
+Fri Jun 27 13:01:32 2025 - [DISCONNECT] user15 disconnected.
+Fri Jun 27 13:04:26 2025 - [LOGIN] user 'user1' connected
+Fri Jun 27 13:04:26 2025 - [LOGIN] user 'user2' connected
+Fri Jun 27 13:04:26 2025 - [LOGIN] user 'user3' connected
+Fri Jun 27 13:04:26 2025 - [LOGIN] user 'user4' connected
+Fri Jun 27 13:04:26 2025 - [LOGIN] user 'user5' connected
+Fri Jun 27 13:04:27 2025 - [LOGIN] user 'user6' connected
+Fri Jun 27 13:04:27 2025 - [LOGIN] user 'user7' connected
+Fri Jun 27 13:04:27 2025 - [LOGIN] user 'user8' connected
+Fri Jun 27 13:04:27 2025 - [LOGIN] user 'user9' connected
+Fri Jun 27 13:04:27 2025 - [LOGIN] user 'user10' connected
+Fri Jun 27 13:04:27 2025 - [LOGIN] user 'user11' connected
+Fri Jun 27 13:04:27 2025 - [LOGIN] user 'user12' connected
+Fri Jun 27 13:04:27 2025 - [LOGIN] user 'user13' connected
+Fri Jun 27 13:04:27 2025 - [LOGIN] user 'user14' connected
+Fri Jun 27 13:04:28 2025 - [LOGIN] user 'user15' connected
+Fri Jun 27 13:04:36 2025 - [DISCONNECT] user1 disconnected.
+Fri Jun 27 13:04:36 2025 - [DISCONNECT] user1 disconnected.
+Fri Jun 27 13:04:36 2025 - [DISCONNECT] user2 disconnected.
+Fri Jun 27 13:04:36 2025 - [DISCONNECT] user2 disconnected.
+Fri Jun 27 13:04:36 2025 - [DISCONNECT] user3 disconnected.
+Fri Jun 27 13:04:36 2025 - [DISCONNECT] user3 disconnected.
+Fri Jun 27 13:04:36 2025 - [DISCONNECT] user4 disconnected.
+Fri Jun 27 13:04:36 2025 - [DISCONNECT] user4 disconnected.
+Fri Jun 27 13:04:36 2025 - [DISCONNECT] user5 disconnected.
+Fri Jun 27 13:04:36 2025 - [DISCONNECT] user5 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user6 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user6 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user7 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user7 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user8 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user8 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user9 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user9 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user10 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user10 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user11 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user11 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user12 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user12 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user13 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user13 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user14 disconnected.
+Fri Jun 27 13:04:37 2025 - [DISCONNECT] user14 disconnected.
+Fri Jun 27 13:04:38 2025 - [DISCONNECT] user15 disconnected.
+Fri Jun 27 13:04:38 2025 - [DISCONNECT] user15 disconnected.
+Fri Jun 27 13:43:37 2025 - [SHUTDOWN] SIGINT received. Disconnecting all clients.
+Fri Jun 27 13:43:43 2025 - [START] Server started.
+Fri Jun 27 13:43:51 2025 - [LOGIN] user 'User1' connected

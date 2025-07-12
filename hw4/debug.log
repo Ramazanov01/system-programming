@@ -1,0 +1,8 @@
+DEBUG: Initializing module 'network'
+DEBUG: Loading configuration from /etc/app/config.json
+ERROR: Invalid API key provided
+DEBUG: Retrying connection to server...
+WARNING: High memory usage (90%)
+DEBUG: Cache cleared successfully
+ERROR: Database query failed: timeout
+DEBUG: Shutting down worker threads
